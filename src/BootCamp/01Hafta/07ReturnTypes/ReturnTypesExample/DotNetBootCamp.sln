@@ -19,7 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestWebApi", "..\..\08TestW
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10.AccessModifiers_Field,_Property", "10.AccessModifiers_Field,_Property", "{B53A3ACF-5638-4B7D-A879-6D3E634980EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers.Field.Property", "..\..\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\AccessModifiers.Field.Property.csproj", "{63DB4919-ABD6-4D84-9E2C-83065BF734F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers.Field.Property", "..\..\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\AccessModifiers.Field.Property.csproj", "{63DB4919-ABD6-4D84-9E2C-83065BF734F8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15.BindingSourceParameters", "15.BindingSourceParameters", "{F2433FF0-AD4D-4508-A8FE-0329A4EF7508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BindingSourceParameters", "..\..\15.BindingSourceParameters\BindingSourceParameters\BindingSourceParameters.csproj", "{C7E5EE42-22E1-4BC9-8462-BA737D69E4FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "16.Get.Post.Put.Delete", "16.Get.Post.Put.Delete", "{BC62CD34-73B5-4E9B-9D99-C34FD0F34A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp", "..\..\16.Get.Post.Put.Delete\TodoApp\TodoApp.csproj", "{48F201B0-CE7D-4F1E-8A9A-F91AA4DA23DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +47,14 @@ Global
 		{63DB4919-ABD6-4D84-9E2C-83065BF734F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63DB4919-ABD6-4D84-9E2C-83065BF734F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63DB4919-ABD6-4D84-9E2C-83065BF734F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E5EE42-22E1-4BC9-8462-BA737D69E4FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E5EE42-22E1-4BC9-8462-BA737D69E4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E5EE42-22E1-4BC9-8462-BA737D69E4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E5EE42-22E1-4BC9-8462-BA737D69E4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48F201B0-CE7D-4F1E-8A9A-F91AA4DA23DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48F201B0-CE7D-4F1E-8A9A-F91AA4DA23DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48F201B0-CE7D-4F1E-8A9A-F91AA4DA23DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48F201B0-CE7D-4F1E-8A9A-F91AA4DA23DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +68,10 @@ Global
 		{E386353A-4DD7-40D6-89DC-A2506EE4E358} = {BD7AAA13-628C-4CD7-A748-6539C09523B1}
 		{B53A3ACF-5638-4B7D-A879-6D3E634980EE} = {266444B4-9EE7-485C-A55D-CEB25D725E9A}
 		{63DB4919-ABD6-4D84-9E2C-83065BF734F8} = {B53A3ACF-5638-4B7D-A879-6D3E634980EE}
+		{F2433FF0-AD4D-4508-A8FE-0329A4EF7508} = {266444B4-9EE7-485C-A55D-CEB25D725E9A}
+		{C7E5EE42-22E1-4BC9-8462-BA737D69E4FD} = {F2433FF0-AD4D-4508-A8FE-0329A4EF7508}
+		{BC62CD34-73B5-4E9B-9D99-C34FD0F34A8A} = {266444B4-9EE7-485C-A55D-CEB25D725E9A}
+		{48F201B0-CE7D-4F1E-8A9A-F91AA4DA23DE} = {BC62CD34-73B5-4E9B-9D99-C34FD0F34A8A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {584FA0DF-3EC2-43F2-B96D-94DAFA90DB31}
