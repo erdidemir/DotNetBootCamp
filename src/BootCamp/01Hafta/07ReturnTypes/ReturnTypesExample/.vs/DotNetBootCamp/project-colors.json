@@ -15,7 +15,17 @@
       "ProjectGuid": "63db4919-abd6-4d84-9e2c-83065bf734f8",
       "DisplayName": "AccessModifiers.Field.Property",
       "ColorIndex": 1
+    },
+    "c7e5ee42-22e1-4bc9-8462-ba737d69e4fd": {
+      "ProjectGuid": "c7e5ee42-22e1-4bc9-8462-ba737d69e4fd",
+      "DisplayName": "BindingSourceParameters",
+      "ColorIndex": 2
+    },
+    "48f201b0-ce7d-4f1e-8a9a-f91aa4da23de": {
+      "ProjectGuid": "48f201b0-ce7d-4f1e-8a9a-f91aa4da23de",
+      "DisplayName": "TodoApp",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
