@@ -42,7 +42,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.SQLDataTypes", "01.SQLDa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.Functions", "08.Functions", "{488FF9C1-43E9-4695-8AA6-8FAD3FAB793A}"
 	ProjectSection(SolutionItems) = preProject
+		CustomFunction.sql = CustomFunction.sql
 		FunctionSql.sql = FunctionSql.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09.UserDefinedTypes", "09.UserDefinedTypes", "{9877E084-59D5-41F3-B9C3-36ACFAB264EB}"
+	ProjectSection(SolutionItems) = preProject
+		UserDefinedTypes.sql = UserDefinedTypes.sql
 	EndProjectSection
 EndProject
 Global
@@ -97,6 +103,7 @@ Global
 		{7FC24C95-0E2B-4381-BF83-F0F9D97F3D8E} = {C9529BA1-9C4B-4183-84BD-18B45A8EDED6}
 		{1E000171-8695-41BB-B559-AE4785367C77} = {7FC24C95-0E2B-4381-BF83-F0F9D97F3D8E}
 		{488FF9C1-43E9-4695-8AA6-8FAD3FAB793A} = {7FC24C95-0E2B-4381-BF83-F0F9D97F3D8E}
+		{9877E084-59D5-41F3-B9C3-36ACFAB264EB} = {7FC24C95-0E2B-4381-BF83-F0F9D97F3D8E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {584FA0DF-3EC2-43F2-B96D-94DAFA90DB31}
