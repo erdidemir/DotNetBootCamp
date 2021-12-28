@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\bin\Debug\net5.0\DapperTodoDemo.Application.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\bin\Debug\net5.0\DapperTodoDemo.Application.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\bin\Debug\net5.0\ref\DapperTodoDemo.Application.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\bin\Debug\net5.0\DapperTodoDemo.Application.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\bin\Debug\net5.0\DapperTodoDemo.Domain.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\bin\Debug\net5.0\DapperTodoDemo.Domain.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\DapperTodoDemo.Application.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\DapperTodoDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\DapperTodoDemo.Application.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\DapperTodoDemo.Application.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\DapperTodoDemo.Application.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\DapperTodoDemo.Application.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\DapperTodoDemo.Application.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\ref\DapperTodoDemo.Application.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Application\obj\Debug\net5.0\DapperTodoDemo.Application.pdb

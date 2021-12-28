@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.2.0" />
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DapperTodoDemo.Application\DapperTodoDemo.Application.csproj" />
+    <ProjectReference Include="..\DapperTodoDemo.Infrastructure\DapperTodoDemo.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
