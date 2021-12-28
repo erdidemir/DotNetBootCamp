@@ -25,7 +25,42 @@
       "ProjectGuid": "48f201b0-ce7d-4f1e-8a9a-f91aa4da23de",
       "DisplayName": "TodoApp",
       "ColorIndex": 3
+    },
+    "aac74616-8f27-4af0-9b2f-651eab7561d7": {
+      "ProjectGuid": "aac74616-8f27-4af0-9b2f-651eab7561d7",
+      "DisplayName": "Routing",
+      "ColorIndex": 4
+    },
+    "1e000171-8695-41bb-b559-ae4785367c77": {
+      "ProjectGuid": "1e000171-8695-41bb-b559-ae4785367c77",
+      "DisplayName": "01.SQLDataTypes",
+      "ColorIndex": 5
+    },
+    "488ff9c1-43e9-4695-8aa6-8fad3fab793a": {
+      "ProjectGuid": "488ff9c1-43e9-4695-8aa6-8fad3fab793a",
+      "DisplayName": "08.Functions",
+      "ColorIndex": 6
+    },
+    "9877e084-59d5-41f3-b9c3-36acfab264eb": {
+      "ProjectGuid": "9877e084-59d5-41f3-b9c3-36acfab264eb",
+      "DisplayName": "09.UserDefinedTypes",
+      "ColorIndex": 7
+    },
+    "f7e125ed-e0d1-4673-819c-9db91ac3bc51": {
+      "ProjectGuid": "f7e125ed-e0d1-4673-819c-9db91ac3bc51",
+      "DisplayName": "Ordering.Application",
+      "ColorIndex": 8
+    },
+    "804ec1b5-4067-4a26-b563-6fd6a47a8ef7": {
+      "ProjectGuid": "804ec1b5-4067-4a26-b563-6fd6a47a8ef7",
+      "DisplayName": "Ordering.Domain",
+      "ColorIndex": 9
+    },
+    "141df9c8-7065-477f-8852-faae473b953d": {
+      "ProjectGuid": "141df9c8-7065-477f-8852-faae473b953d",
+      "DisplayName": "Ordering.Infrastructure",
+      "ColorIndex": 10
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 11
 }
