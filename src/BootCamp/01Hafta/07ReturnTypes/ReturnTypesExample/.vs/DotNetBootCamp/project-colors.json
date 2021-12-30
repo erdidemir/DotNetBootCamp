@@ -60,7 +60,32 @@
       "ProjectGuid": "141df9c8-7065-477f-8852-faae473b953d",
       "DisplayName": "Ordering.Infrastructure",
       "ColorIndex": 10
+    },
+    "6eb53f7f-5407-4070-bc5d-b206334f3337": {
+      "ProjectGuid": "6eb53f7f-5407-4070-bc5d-b206334f3337",
+      "DisplayName": "Ordering.API",
+      "ColorIndex": 11
+    },
+    "49c29f91-4750-4a9e-b056-4d56649b1342": {
+      "ProjectGuid": "49c29f91-4750-4a9e-b056-4d56649b1342",
+      "DisplayName": "DapperTodoDemo.Domain",
+      "ColorIndex": 12
+    },
+    "e1b6f378-afa1-468d-962f-fec41297b7bb": {
+      "ProjectGuid": "e1b6f378-afa1-468d-962f-fec41297b7bb",
+      "DisplayName": "DapperTodoDemo.Infrastructure",
+      "ColorIndex": 13
+    },
+    "29fb0253-4b62-40b7-a731-fcbae49e02e2": {
+      "ProjectGuid": "29fb0253-4b62-40b7-a731-fcbae49e02e2",
+      "DisplayName": "DapperTodoDemo.Application",
+      "ColorIndex": 14
+    },
+    "7cec97c9-0f41-41a1-986f-6afc079c8e24": {
+      "ProjectGuid": "7cec97c9-0f41-41a1-986f-6afc079c8e24",
+      "DisplayName": "DapperTodoDemo.Web",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 0
 }
