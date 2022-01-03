@@ -95,7 +95,12 @@
       "ProjectGuid": "f09ee713-a613-46bf-8423-634aeba74839",
       "DisplayName": "Attribute.Reflection",
       "ColorIndex": 1
+    },
+    "2223d744-4328-45a5-a43e-2b3adf2f5094": {
+      "ProjectGuid": "2223d744-4328-45a5-a43e-2b3adf2f5094",
+      "DisplayName": "SOLID",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\Attribute.Reflection.exe
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\Attribute.Reflection.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\Attribute.Reflection.runtimeconfig.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\Attribute.Reflection.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\Attribute.Reflection.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\ref\Attribute.Reflection.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\Attribute.Reflection.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\ref\Attribute.Reflection.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.genruntimeconfig.cache
