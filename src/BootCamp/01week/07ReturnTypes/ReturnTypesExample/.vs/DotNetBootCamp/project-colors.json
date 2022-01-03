@@ -100,7 +100,12 @@
       "ProjectGuid": "2223d744-4328-45a5-a43e-2b3adf2f5094",
       "DisplayName": "SOLID",
       "ColorIndex": 2
+    },
+    "2bd1a8f6-44d2-470c-b51c-85f76de68799": {
+      "ProjectGuid": "2bd1a8f6-44d2-470c-b51c-85f76de68799",
+      "DisplayName": "Abstraction.Interface",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
