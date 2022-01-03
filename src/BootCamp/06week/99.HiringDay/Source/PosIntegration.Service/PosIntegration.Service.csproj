@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PosIntegration.Exception\PosIntegration.Exception.csproj" />
+    <ProjectReference Include="..\PosIntegration.Model\PosIntegration.Model.csproj" />
+  </ItemGroup>
+
+</Project>

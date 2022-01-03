@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PosIntegration.Exception\PosIntegration.Exception.csproj" />
+    <ProjectReference Include="..\PosIntegration.Model\PosIntegration.Model.csproj" />
+    <ProjectReference Include="..\PosIntegration.Service\PosIntegration.Service.csproj" />
+  </ItemGroup>
+
+</Project>

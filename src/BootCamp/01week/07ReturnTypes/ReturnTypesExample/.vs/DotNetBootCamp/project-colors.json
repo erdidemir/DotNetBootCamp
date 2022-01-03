@@ -110,7 +110,17 @@
       "ProjectGuid": "46e0b344-ca32-4d14-aca8-4a52d2882ea1",
       "DisplayName": "Transient.Singleton.Scoped",
       "ColorIndex": 4
+    },
+    "cf7abf86-50b4-4492-b2b2-92bcc4d0a7ba": {
+      "ProjectGuid": "cf7abf86-50b4-4492-b2b2-92bcc4d0a7ba",
+      "DisplayName": "Middleware",
+      "ColorIndex": 5
+    },
+    "00808d3d-e9ed-4772-84df-dca2dbc21885": {
+      "ProjectGuid": "00808d3d-e9ed-4772-84df-dca2dbc21885",
+      "DisplayName": "Mapster.Example",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
