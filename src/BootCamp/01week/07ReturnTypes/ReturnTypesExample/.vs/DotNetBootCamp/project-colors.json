@@ -105,7 +105,12 @@
       "ProjectGuid": "2bd1a8f6-44d2-470c-b51c-85f76de68799",
       "DisplayName": "Abstraction.Interface",
       "ColorIndex": 3
+    },
+    "46e0b344-ca32-4d14-aca8-4a52d2882ea1": {
+      "ProjectGuid": "46e0b344-ca32-4d14-aca8-4a52d2882ea1",
+      "DisplayName": "Transient.Singleton.Scoped",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 5
 }
