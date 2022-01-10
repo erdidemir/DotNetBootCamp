@@ -1,15 +1,14 @@
-﻿using PosIntegration.Exception;
-using PosIntegration.Model;
-using PosIntegration.Model.Auth;
-using PosIntegration.Model.Refund;
-using PosIntegration.Service.Est.Model;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System;
 using System.Net.Http;
 using System.Text;
 using System.Text.Json;
 using System.Threading.Tasks;
+using PosIntegration.Exception;
+using PosIntegration.Model;
+using PosIntegration.Model.Auth;
+using PosIntegration.Model.RedirectUrl;
+using PosIntegration.Model.Refund;
+using PosIntegration.Service.Est.Model;
 
 namespace PosIntegration.Service.Est
 {

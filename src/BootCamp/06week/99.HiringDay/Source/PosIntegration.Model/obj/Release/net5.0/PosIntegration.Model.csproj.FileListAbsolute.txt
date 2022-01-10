@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\bin\Release\net5.0\PosIntegration.Model.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\bin\Release\net5.0\PosIntegration.Model.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\bin\Release\net5.0\ref\PosIntegration.Model.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\bin\Release\net5.0\PosIntegration.Model.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Release\net5.0\PosIntegration.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Release\net5.0\PosIntegration.Model.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Release\net5.0\PosIntegration.Model.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Release\net5.0\PosIntegration.Model.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Release\net5.0\PosIntegration.Model.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Release\net5.0\ref\PosIntegration.Model.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Release\net5.0\PosIntegration.Model.pdb

@@ -43,7 +43,6 @@ namespace PosIntegration.Service.Adyen.Sofort
             }
         }
 
-        //Dummy Coding
         public Task<AuthResponse> AuthAsync(AuthRequest request)
         {
             throw new NotSupportedException("Unsupported auth operation for Adyen Sofort Pos");

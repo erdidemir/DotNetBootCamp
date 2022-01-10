@@ -13,18 +13,18 @@ namespace PosIntegration.Service.Adyen.Paypal
 {
     public class PaypalPosService : IFetchRedirectionUrlPostService
     {
-        private readonly HttpService _httpService;
+        private readonly IHttpClientFactory _httpClientFactory;
 
-        public PaypalPosService(HttpService httpService)
+        public PaypalPosService(IHttpClientFactory httpClientFactory)
         {
-            _httpService = httpService;
+            _httpClientFactory = httpClientFactory;
         }
 
         public async Task<RedirectUrlResponse> FetchRedirectionUrlAsync(RedirectUrlRequest request)
         {
             try
             {
-                var postResponse = await _httpService.PostAsync<RedirectUrlRequest, RedirectUrlResponse>("redirection/url", request, "adven");
+                var postResponse = await PostAsync<RedirectUrlRequest, RedirectUrlResponse>("sofort/redirection/url", request);
                 return new RedirectUrlResponse(postResponse.Response.Url,
                     postResponse.Response.RawBody);
             }
@@ -34,6 +34,18 @@ namespace PosIntegration.Service.Adyen.Paypal
                     $"Error occurred when getting payment redirect url for sofort, ReferenceId:{request.ReferenceNumber}. Message: {e.Message}",
                     e);
             }
+        }
+
+        private async Task<PostResponse<TResponse>> PostAsync<TRequest, TResponse>(string url, TRequest request)
+        {
+            var body = JsonSerializer.Serialize(request);
+            var httpClient = _httpClientFactory.CreateClient("adven");
+            var httpResponse =
+                await httpClient.PostAsync(url, new StringContent(body, Encoding.UTF8, "application/json"));
+            httpResponse.EnsureSuccessStatusCode();
+            var responseData = await httpResponse.Content.ReadAsStringAsync();
+            var postResponse = JsonSerializer.Deserialize<PostResponse<TResponse>>(responseData);
+            return postResponse;
         }
 
     }

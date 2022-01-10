@@ -40,3 +40,4 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.Hiring
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\ref\PosIntegration.Api.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.MvcApplicationPartsAssemblyInfo.cs

@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\bin\Release\net5.0\Abstraction.Interface.exe
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\bin\Release\net5.0\Abstraction.Interface.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\bin\Release\net5.0\Abstraction.Interface.runtimeconfig.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\bin\Release\net5.0\Abstraction.Interface.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\bin\Release\net5.0\Abstraction.Interface.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\bin\Release\net5.0\ref\Abstraction.Interface.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\bin\Release\net5.0\Abstraction.Interface.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\Abstraction.Interface.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\Abstraction.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\Abstraction.Interface.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\Abstraction.Interface.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\Abstraction.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\Abstraction.Interface.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\ref\Abstraction.Interface.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\Abstraction.Interface.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\03.Abstraction.Interface\Abstraction.Interface\obj\Release\net5.0\Abstraction.Interface.genruntimeconfig.cache

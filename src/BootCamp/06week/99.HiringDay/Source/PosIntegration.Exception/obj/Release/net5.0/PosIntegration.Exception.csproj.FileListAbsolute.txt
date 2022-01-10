@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\bin\Release\net5.0\PosIntegration.Exception.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\bin\Release\net5.0\PosIntegration.Exception.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\bin\Release\net5.0\ref\PosIntegration.Exception.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\bin\Release\net5.0\PosIntegration.Exception.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Release\net5.0\PosIntegration.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Release\net5.0\PosIntegration.Exception.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Release\net5.0\PosIntegration.Exception.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Release\net5.0\PosIntegration.Exception.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Release\net5.0\PosIntegration.Exception.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Release\net5.0\ref\PosIntegration.Exception.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Release\net5.0\PosIntegration.Exception.pdb

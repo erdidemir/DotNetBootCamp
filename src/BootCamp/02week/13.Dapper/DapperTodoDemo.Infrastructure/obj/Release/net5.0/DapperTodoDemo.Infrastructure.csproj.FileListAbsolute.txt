@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\bin\Release\net5.0\DapperTodoDemo.Infrastructure.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\bin\Release\net5.0\DapperTodoDemo.Infrastructure.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\bin\Release\net5.0\ref\DapperTodoDemo.Infrastructure.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\bin\Release\net5.0\DapperTodoDemo.Infrastructure.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\bin\Release\net5.0\DapperTodoDemo.Application.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\bin\Release\net5.0\DapperTodoDemo.Domain.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\bin\Release\net5.0\DapperTodoDemo.Application.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\bin\Release\net5.0\DapperTodoDemo.Domain.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\DapperTodoDemo.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\DapperTodoDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\DapperTodoDemo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\DapperTodoDemo.Infrastructure.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\DapperTodoDemo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\DapperTodoDemo.Infrastructure.csproj.CopyComplete
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\DapperTodoDemo.Infrastructure.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\ref\DapperTodoDemo.Infrastructure.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Infrastructure\obj\Release\net5.0\DapperTodoDemo.Infrastructure.pdb

@@ -120,7 +120,47 @@
       "ProjectGuid": "00808d3d-e9ed-4772-84df-dca2dbc21885",
       "DisplayName": "Mapster.Example",
       "ColorIndex": 6
+    },
+    "34d95a27-0c45-4eea-9aa7-3df12b21ddd5": {
+      "ProjectGuid": "34d95a27-0c45-4eea-9aa7-3df12b21ddd5",
+      "DisplayName": "99.HiringDay",
+      "ColorIndex": 7
+    },
+    "fb783add-ebb4-430d-b40f-5e3f7e30e8f7": {
+      "ProjectGuid": "fb783add-ebb4-430d-b40f-5e3f7e30e8f7",
+      "DisplayName": "PosIntegration.Api",
+      "ColorIndex": 8
+    },
+    "704e9d08-9e54-4cde-8561-dc29c637e4ac": {
+      "ProjectGuid": "704e9d08-9e54-4cde-8561-dc29c637e4ac",
+      "DisplayName": "PosIntegration.Exception",
+      "ColorIndex": 9
+    },
+    "3f8b8591-87bf-44cb-b699-7116f21aede5": {
+      "ProjectGuid": "3f8b8591-87bf-44cb-b699-7116f21aede5",
+      "DisplayName": "PosIntegration.Model",
+      "ColorIndex": 10
+    },
+    "261297c4-bc45-41e5-82e4-cff2a3c6e710": {
+      "ProjectGuid": "261297c4-bc45-41e5-82e4-cff2a3c6e710",
+      "DisplayName": "PosIntegration.Service",
+      "ColorIndex": 11
+    },
+    "6e76c2c0-97b1-454d-be97-4c2b5f8c2b40": {
+      "ProjectGuid": "6e76c2c0-97b1-454d-be97-4c2b5f8c2b40",
+      "DisplayName": "PosIntegration.Service.Tests",
+      "ColorIndex": 12
+    },
+    "75cb4d5c-cc9f-4ff5-9c79-93dcaa896b6a": {
+      "ProjectGuid": "75cb4d5c-cc9f-4ff5-9c79-93dcaa896b6a",
+      "DisplayName": "PosIntegration.Service.Tests",
+      "ColorIndex": 13
+    },
+    "e386353a-4dd7-40d6-89dc-a2506ee4e358": {
+      "ProjectGuid": "e386353a-4dd7-40d6-89dc-a2506ee4e358",
+      "DisplayName": "TestWebApi",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 15
 }

@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\bin\Release\net5.0\DapperTodoDemo.Domain.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\bin\Release\net5.0\DapperTodoDemo.Domain.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\bin\Release\net5.0\ref\DapperTodoDemo.Domain.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\bin\Release\net5.0\DapperTodoDemo.Domain.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\obj\Release\net5.0\DapperTodoDemo.Domain.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\obj\Release\net5.0\DapperTodoDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\obj\Release\net5.0\DapperTodoDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\obj\Release\net5.0\DapperTodoDemo.Domain.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\obj\Release\net5.0\DapperTodoDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\obj\Release\net5.0\DapperTodoDemo.Domain.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\obj\Release\net5.0\ref\DapperTodoDemo.Domain.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\13.Dapper\DapperTodoDemo.Domain\obj\Release\net5.0\DapperTodoDemo.Domain.pdb
