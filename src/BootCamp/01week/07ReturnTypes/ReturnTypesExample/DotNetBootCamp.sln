@@ -116,15 +116,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99.HiringDay", "99.HiringDa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source", "Source", "{9A8F066C-3843-475D-947E-3272F92150C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosIntegration.Api", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Api\PosIntegration.Api.csproj", "{FB783ADD-EBB4-430D-B40F-5E3F7E30E8F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosIntegration.Api", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Api\PosIntegration.Api.csproj", "{FB783ADD-EBB4-430D-B40F-5E3F7E30E8F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosIntegration.Exception", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Exception\PosIntegration.Exception.csproj", "{704E9D08-9E54-4CDE-8561-DC29C637E4AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosIntegration.Exception", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Exception\PosIntegration.Exception.csproj", "{704E9D08-9E54-4CDE-8561-DC29C637E4AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosIntegration.Model", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Model\PosIntegration.Model.csproj", "{3F8B8591-87BF-44CB-B699-7116F21AEDE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosIntegration.Model", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Model\PosIntegration.Model.csproj", "{3F8B8591-87BF-44CB-B699-7116F21AEDE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosIntegration.Service", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Service\PosIntegration.Service.csproj", "{261297C4-BC45-41E5-82E4-CFF2A3C6E710}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosIntegration.Service", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Service\PosIntegration.Service.csproj", "{261297C4-BC45-41E5-82E4-CFF2A3C6E710}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosIntegration.Service.Tests", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Service.Tests\PosIntegration.Service.Tests.csproj", "{75CB4D5C-CC9F-4FF5-9C79-93DCAA896B6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PosIntegration.Service.Tests", "..\..\..\06week\99.HiringDay\Source\PosIntegration.Service.Tests\PosIntegration.Service.Tests.csproj", "{75CB4D5C-CC9F-4FF5-9C79-93DCAA896B6A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.UnitTest", "06.UnitTest", "{AD60EA5D-2D84-4FBF-9280-9BB750731A62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitSample", "..\..\..\06week\06.UnitTest\XUnitSample\XUnitSample.csproj", "{E2FF2F37-9DF6-4788-8ACB-89F26EED5E68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorUnitTest", "..\..\..\06week\06.UnitTest\CalculatorUnitTest\CalculatorUnitTest.csproj", "{10BF10A0-D6C9-4F37-A7E0-F0A8909DA31A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.UnitTest.02", "06.UnitTest.02", "{1276948D-D5FE-48B7-A509-E3A136967EBE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest_Mock", "..\..\..\06week\06.UnitTest.02\UnitTest_Mock\UnitTest_Mock.csproj", "{4F138EED-34F9-4E04-A2F2-ED5F236616F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\..\..\06week\06.UnitTest.02\TestProject1\TestProject1.csproj", "{800ED90B-6952-400E-B654-57B70AFCFA2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -236,6 +248,22 @@ Global
 		{75CB4D5C-CC9F-4FF5-9C79-93DCAA896B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75CB4D5C-CC9F-4FF5-9C79-93DCAA896B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75CB4D5C-CC9F-4FF5-9C79-93DCAA896B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2FF2F37-9DF6-4788-8ACB-89F26EED5E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2FF2F37-9DF6-4788-8ACB-89F26EED5E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2FF2F37-9DF6-4788-8ACB-89F26EED5E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2FF2F37-9DF6-4788-8ACB-89F26EED5E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10BF10A0-D6C9-4F37-A7E0-F0A8909DA31A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BF10A0-D6C9-4F37-A7E0-F0A8909DA31A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BF10A0-D6C9-4F37-A7E0-F0A8909DA31A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BF10A0-D6C9-4F37-A7E0-F0A8909DA31A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F138EED-34F9-4E04-A2F2-ED5F236616F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F138EED-34F9-4E04-A2F2-ED5F236616F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F138EED-34F9-4E04-A2F2-ED5F236616F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F138EED-34F9-4E04-A2F2-ED5F236616F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800ED90B-6952-400E-B654-57B70AFCFA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800ED90B-6952-400E-B654-57B70AFCFA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800ED90B-6952-400E-B654-57B70AFCFA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800ED90B-6952-400E-B654-57B70AFCFA2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -295,6 +323,12 @@ Global
 		{3F8B8591-87BF-44CB-B699-7116F21AEDE5} = {9A8F066C-3843-475D-947E-3272F92150C5}
 		{261297C4-BC45-41E5-82E4-CFF2A3C6E710} = {9A8F066C-3843-475D-947E-3272F92150C5}
 		{75CB4D5C-CC9F-4FF5-9C79-93DCAA896B6A} = {9A8F066C-3843-475D-947E-3272F92150C5}
+		{AD60EA5D-2D84-4FBF-9280-9BB750731A62} = {FD9334BB-09AD-41B2-B2DC-A515B02629B6}
+		{E2FF2F37-9DF6-4788-8ACB-89F26EED5E68} = {AD60EA5D-2D84-4FBF-9280-9BB750731A62}
+		{10BF10A0-D6C9-4F37-A7E0-F0A8909DA31A} = {AD60EA5D-2D84-4FBF-9280-9BB750731A62}
+		{1276948D-D5FE-48B7-A509-E3A136967EBE} = {FD9334BB-09AD-41B2-B2DC-A515B02629B6}
+		{4F138EED-34F9-4E04-A2F2-ED5F236616F0} = {1276948D-D5FE-48B7-A509-E3A136967EBE}
+		{800ED90B-6952-400E-B654-57B70AFCFA2A} = {1276948D-D5FE-48B7-A509-E3A136967EBE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {584FA0DF-3EC2-43F2-B96D-94DAFA90DB31}

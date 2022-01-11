@@ -160,7 +160,22 @@
       "ProjectGuid": "e386353a-4dd7-40d6-89dc-a2506ee4e358",
       "DisplayName": "TestWebApi",
       "ColorIndex": 14
+    },
+    "e2ff2f37-9df6-4788-8acb-89f26eed5e68": {
+      "ProjectGuid": "e2ff2f37-9df6-4788-8acb-89f26eed5e68",
+      "DisplayName": "XUnitSample",
+      "ColorIndex": 15
+    },
+    "10bf10a0-d6c9-4f37-a7e0-f0a8909da31a": {
+      "ProjectGuid": "10bf10a0-d6c9-4f37-a7e0-f0a8909da31a",
+      "DisplayName": "CalculatorUnitTest",
+      "ColorIndex": 0
+    },
+    "4f138eed-34f9-4e04-a2f2-ed5f236616f0": {
+      "ProjectGuid": "4f138eed-34f9-4e04-a2f2-ed5f236616f0",
+      "DisplayName": "UnitTest_Mock",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 2
 }
