@@ -175,7 +175,12 @@
       "ProjectGuid": "4f138eed-34f9-4e04-a2f2-ed5f236616f0",
       "DisplayName": "UnitTest_Mock",
       "ColorIndex": 1
+    },
+    "800ed90b-6952-400e-b654-57b70afcfa2a": {
+      "ProjectGuid": "800ed90b-6952-400e-b654-57b70afcfa2a",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
