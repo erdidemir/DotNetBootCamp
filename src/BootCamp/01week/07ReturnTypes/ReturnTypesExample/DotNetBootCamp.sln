@@ -146,7 +146,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InMemoryCacheExample", "..\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.DistributedCache", "06.DistributedCache", "{11E71AD0-EE88-4263-AD6E-1EDCCF52DAC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributedCacheExample", "..\..\..\05week\06.DistributedCache\DistributedCacheExample\DistributedCacheExample.csproj", "{E7C07D39-36A0-48A9-A011-1524A2C88B89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistributedCacheExample", "..\..\..\05week\06.DistributedCache\DistributedCacheExample\DistributedCacheExample.csproj", "{E7C07D39-36A0-48A9-A011-1524A2C88B89}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.ResponseCache", "07.ResponseCache", "{4D27CC43-2528-48B0-90CA-070AB3066F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseCacheExample", "..\..\..\05week\07.ResponseCache\ResponseCacheExample\ResponseCacheExample.csproj", "{BC0E578D-8E42-435D-9310-91609D5467D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -282,6 +286,10 @@ Global
 		{E7C07D39-36A0-48A9-A011-1524A2C88B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7C07D39-36A0-48A9-A011-1524A2C88B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7C07D39-36A0-48A9-A011-1524A2C88B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0E578D-8E42-435D-9310-91609D5467D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0E578D-8E42-435D-9310-91609D5467D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0E578D-8E42-435D-9310-91609D5467D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0E578D-8E42-435D-9310-91609D5467D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -352,6 +360,8 @@ Global
 		{01B0B625-0CF5-4E5C-8447-F74F8DDE9671} = {D413CECC-0338-4DD1-A268-115B1154D13E}
 		{11E71AD0-EE88-4263-AD6E-1EDCCF52DAC7} = {C1C86B4F-C37B-49CB-9D80-68DACE289344}
 		{E7C07D39-36A0-48A9-A011-1524A2C88B89} = {11E71AD0-EE88-4263-AD6E-1EDCCF52DAC7}
+		{4D27CC43-2528-48B0-90CA-070AB3066F44} = {C1C86B4F-C37B-49CB-9D80-68DACE289344}
+		{BC0E578D-8E42-435D-9310-91609D5467D7} = {4D27CC43-2528-48B0-90CA-070AB3066F44}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {584FA0DF-3EC2-43F2-B96D-94DAFA90DB31}
