@@ -25,3 +25,4 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\08.Middle
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\08.Middleware\Middleware\obj\Debug\net5.0\ref\Middleware.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\08.Middleware\Middleware\obj\Debug\net5.0\Middleware.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\08.Middleware\Middleware\obj\Debug\net5.0\Middleware.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\08.Middleware\Middleware\obj\Debug\net5.0\Middleware.csproj.AssemblyReference.cache

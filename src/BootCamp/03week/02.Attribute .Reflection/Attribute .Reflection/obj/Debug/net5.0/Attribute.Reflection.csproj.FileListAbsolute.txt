@@ -5,7 +5,6 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attrib
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\Attribute.Reflection.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\ref\Attribute.Reflection.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\bin\Debug\net5.0\Attribute.Reflection.pdb
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\02.Attribute .Reflection\Attribute .Reflection\obj\Debug\net5.0\Attribute.Reflection.AssemblyInfo.cs
