@@ -190,7 +190,12 @@
       "ProjectGuid": "e7c07d39-36a0-48a9-a011-1524a2c88b89",
       "DisplayName": "DistributedCacheExample",
       "ColorIndex": 4
+    },
+    "bc0e578d-8e42-435d-9310-91609d5467d7": {
+      "ProjectGuid": "bc0e578d-8e42-435d-9310-91609d5467d7",
+      "DisplayName": "ResponseCacheExample",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

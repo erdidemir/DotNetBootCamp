@@ -150,7 +150,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistributedCacheExample", "
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.ResponseCache", "07.ResponseCache", "{4D27CC43-2528-48B0-90CA-070AB3066F44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseCacheExample", "..\..\..\05week\07.ResponseCache\ResponseCacheExample\ResponseCacheExample.csproj", "{BC0E578D-8E42-435D-9310-91609D5467D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResponseCacheExample", "..\..\..\05week\07.ResponseCache\ResponseCacheExample\ResponseCacheExample.csproj", "{BC0E578D-8E42-435D-9310-91609D5467D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07week", "07week", "{92BA37DC-9A41-489B-800D-A913291F7501}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "99.InsertionSort", "99.InsertionSort", "{44C408FF-1C25-42E7-8310-AC0F8E6CC6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "..\..\..\07week\99.InsertionSort\InsertionSort\InsertionSort.csproj", "{468113D1-DD62-45D8-BE45-6612E753265D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -290,6 +296,10 @@ Global
 		{BC0E578D-8E42-435D-9310-91609D5467D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC0E578D-8E42-435D-9310-91609D5467D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC0E578D-8E42-435D-9310-91609D5467D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468113D1-DD62-45D8-BE45-6612E753265D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468113D1-DD62-45D8-BE45-6612E753265D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468113D1-DD62-45D8-BE45-6612E753265D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468113D1-DD62-45D8-BE45-6612E753265D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -362,6 +372,9 @@ Global
 		{E7C07D39-36A0-48A9-A011-1524A2C88B89} = {11E71AD0-EE88-4263-AD6E-1EDCCF52DAC7}
 		{4D27CC43-2528-48B0-90CA-070AB3066F44} = {C1C86B4F-C37B-49CB-9D80-68DACE289344}
 		{BC0E578D-8E42-435D-9310-91609D5467D7} = {4D27CC43-2528-48B0-90CA-070AB3066F44}
+		{92BA37DC-9A41-489B-800D-A913291F7501} = {C9529BA1-9C4B-4183-84BD-18B45A8EDED6}
+		{44C408FF-1C25-42E7-8310-AC0F8E6CC6CA} = {92BA37DC-9A41-489B-800D-A913291F7501}
+		{468113D1-DD62-45D8-BE45-6612E753265D} = {44C408FF-1C25-42E7-8310-AC0F8E6CC6CA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {584FA0DF-3EC2-43F2-B96D-94DAFA90DB31}

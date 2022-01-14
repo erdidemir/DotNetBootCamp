@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\bin\Debug\net5.0\InsertionSort.exe
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\bin\Debug\net5.0\InsertionSort.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\bin\Debug\net5.0\InsertionSort.runtimeconfig.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\bin\Debug\net5.0\InsertionSort.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\bin\Debug\net5.0\InsertionSort.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\bin\Debug\net5.0\ref\InsertionSort.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\bin\Debug\net5.0\InsertionSort.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\obj\Debug\net5.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\obj\Debug\net5.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\obj\Debug\net5.0\InsertionSort.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\obj\Debug\net5.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\obj\Debug\net5.0\InsertionSort.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\obj\Debug\net5.0\ref\InsertionSort.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\obj\Debug\net5.0\InsertionSort.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\99.InsertionSort\InsertionSort\obj\Debug\net5.0\InsertionSort.genruntimeconfig.cache
