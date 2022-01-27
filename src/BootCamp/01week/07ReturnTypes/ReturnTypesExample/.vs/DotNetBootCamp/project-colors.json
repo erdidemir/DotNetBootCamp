@@ -215,7 +215,32 @@
       "ProjectGuid": "ff50d19b-a524-4172-b417-2ba79623d054",
       "DisplayName": "WebsiteStatus",
       "ColorIndex": 9
+    },
+    "36381332-70f2-460d-86d9-d98a4477be8b": {
+      "ProjectGuid": "36381332-70f2-460d-86d9-d98a4477be8b",
+      "DisplayName": "BackgroundWorker",
+      "ColorIndex": 10
+    },
+    "bdce2d71-6b3d-43c9-96ff-fc134ba14edd": {
+      "ProjectGuid": "bdce2d71-6b3d-43c9-96ff-fc134ba14edd",
+      "DisplayName": "RabbitMqSubscriberWorker",
+      "ColorIndex": 11
+    },
+    "ff82a4f4-d651-4fc5-8e8a-b55a0cc2e086": {
+      "ProjectGuid": "ff82a4f4-d651-4fc5-8e8a-b55a0cc2e086",
+      "DisplayName": "Publisher",
+      "ColorIndex": 12
+    },
+    "33171a60-b020-46ab-a471-ef0e5b6e9197": {
+      "ProjectGuid": "33171a60-b020-46ab-a471-ef0e5b6e9197",
+      "DisplayName": "Publisher",
+      "ColorIndex": 13
+    },
+    "06924e39-b992-43cd-ab9e-800ec07d3d71": {
+      "ProjectGuid": "06924e39-b992-43cd-ab9e-800ec07d3d71",
+      "DisplayName": "Consumer",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 15
 }

@@ -170,15 +170,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04Week", "04Week", "{CC2FFF
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.BackgroundWorker", "01.BackgroundWorker", "{40C7F5CC-42E3-48B4-9666-2564356AA606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWorker", "..\..\..\05week\01.BackgroundWorker\BackgroundWorker\BackgroundWorker.csproj", "{36381332-70F2-460D-86D9-D98A4477BE8B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackgroundWorker", "..\..\..\05week\01.BackgroundWorker\BackgroundWorker\BackgroundWorker.csproj", "{36381332-70F2-460D-86D9-D98A4477BE8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMqSubscriberWorker", "..\..\..\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker.csproj", "{BDCE2D71-6B3D-43C9-96FF-FC134BA14EDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMqSubscriberWorker", "..\..\..\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker.csproj", "{BDCE2D71-6B3D-43C9-96FF-FC134BA14EDD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.RabbitMQ", "02.RabbitMQ", "{894DCA93-AF3E-4E5B-990A-A1D2C68B8E33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publisher", "..\..\..\05week\03.RabbitMQ\Publisher\Publisher\Publisher.csproj", "{33171A60-B020-46AB-A471-EF0E5B6E9197}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Publisher", "..\..\..\05week\03.RabbitMQ\Publisher\Publisher\Publisher.csproj", "{33171A60-B020-46AB-A471-EF0E5B6E9197}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "..\..\..\05week\03.RabbitMQ\Consumer\Consumer.csproj", "{06924E39-B992-43CD-AB9E-800EC07D3D71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consumer", "..\..\..\05week\03.RabbitMQ\Consumer\Consumer.csproj", "{06924E39-B992-43CD-AB9E-800EC07D3D71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.RabbitMQ.Json", "03.RabbitMQ.Json", "{9093AEA6-A008-498B-9CF9-1EF25BBE5002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQJson", "..\..\..\05week\03.RabbitMQ.Json\RabbitMQJson\RabbitMQJson.csproj", "{0732ED15-F333-4883-BD0E-69A6E61734E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQJsonConsumer", "..\..\..\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\RabbitMQJsonConsumer.csproj", "{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -346,6 +352,14 @@ Global
 		{06924E39-B992-43CD-AB9E-800EC07D3D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06924E39-B992-43CD-AB9E-800EC07D3D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06924E39-B992-43CD-AB9E-800EC07D3D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0732ED15-F333-4883-BD0E-69A6E61734E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0732ED15-F333-4883-BD0E-69A6E61734E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0732ED15-F333-4883-BD0E-69A6E61734E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0732ED15-F333-4883-BD0E-69A6E61734E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -432,6 +446,9 @@ Global
 		{894DCA93-AF3E-4E5B-990A-A1D2C68B8E33} = {C1C86B4F-C37B-49CB-9D80-68DACE289344}
 		{33171A60-B020-46AB-A471-EF0E5B6E9197} = {894DCA93-AF3E-4E5B-990A-A1D2C68B8E33}
 		{06924E39-B992-43CD-AB9E-800EC07D3D71} = {894DCA93-AF3E-4E5B-990A-A1D2C68B8E33}
+		{9093AEA6-A008-498B-9CF9-1EF25BBE5002} = {C1C86B4F-C37B-49CB-9D80-68DACE289344}
+		{0732ED15-F333-4883-BD0E-69A6E61734E3} = {9093AEA6-A008-498B-9CF9-1EF25BBE5002}
+		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B} = {9093AEA6-A008-498B-9CF9-1EF25BBE5002}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {584FA0DF-3EC2-43F2-B96D-94DAFA90DB31}
