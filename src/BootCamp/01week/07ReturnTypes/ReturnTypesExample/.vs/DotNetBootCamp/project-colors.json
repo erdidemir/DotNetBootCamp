@@ -195,7 +195,27 @@
       "ProjectGuid": "bc0e578d-8e42-435d-9310-91609d5467d7",
       "DisplayName": "ResponseCacheExample",
       "ColorIndex": 5
+    },
+    "468113d1-dd62-45d8-be45-6612e753265d": {
+      "ProjectGuid": "468113d1-dd62-45d8-be45-6612e753265d",
+      "DisplayName": "InsertionSort",
+      "ColorIndex": 6
+    },
+    "c52f7a47-3312-4e78-90d4-f468a98b57a5": {
+      "ProjectGuid": "c52f7a47-3312-4e78-90d4-f468a98b57a5",
+      "DisplayName": "MergeSort",
+      "ColorIndex": 7
+    },
+    "b3b5c3ee-199f-4859-af35-c4661b7c77f0": {
+      "ProjectGuid": "b3b5c3ee-199f-4859-af35-c4661b7c77f0",
+      "DisplayName": "BinarySearchTree",
+      "ColorIndex": 8
+    },
+    "ff50d19b-a524-4172-b417-2ba79623d054": {
+      "ProjectGuid": "ff50d19b-a524-4172-b417-2ba79623d054",
+      "DisplayName": "WebsiteStatus",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 10
 }
