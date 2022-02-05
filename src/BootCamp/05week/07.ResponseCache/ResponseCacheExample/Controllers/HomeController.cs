@@ -18,7 +18,6 @@ namespace ResponseCacheExample.Controllers
             _logger = logger;
         }
 
-        [ResponseCache(CacheProfileName = "Duration45")]
         public IActionResult Index()
         {
             ViewData["Time"] = "Time:" + DateTime.Now.ToString();
@@ -28,6 +27,7 @@ namespace ResponseCacheExample.Controllers
         [ResponseCache(Duration = 15)]
         public IActionResult Privacy()
         {
+            ViewData["Time"] = "Time:" + DateTime.Now.ToString();
             return View();
         }
 

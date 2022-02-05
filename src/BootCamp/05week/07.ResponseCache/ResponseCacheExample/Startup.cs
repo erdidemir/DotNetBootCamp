@@ -20,17 +20,15 @@ namespace ResponseCacheExample
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddResponseCaching(options =>
-            {
-                options.UseCaseSensitivePaths = true;
-                options.MaximumBodySize = 1024;
-            });
+            services.AddResponseCaching();
             services.AddControllersWithViews(options =>
-                options.CacheProfiles.Add("Duration45", new CacheProfile
-                {
-                    Duration = 45
-                })
-            );
+            {
+                options.CacheProfiles.Add("Default30",
+                    new CacheProfile()
+                    {
+                        Duration = 30
+                    });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -52,7 +50,7 @@ namespace ResponseCacheExample
             app.UseRouting();
             app.UseResponseCaching();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
