@@ -8,6 +8,8 @@ namespace JobApplications.Services
 {
     public class IdentityValidator : IIdentityValidator
     {
+        public ICountryDataProvider CountryDataProvider => throw new NotImplementedException();
+
         public bool CheckConnectionToRemoveServer()
         {
             return false;

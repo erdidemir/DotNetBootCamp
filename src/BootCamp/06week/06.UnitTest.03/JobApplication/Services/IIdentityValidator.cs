@@ -10,6 +10,18 @@ namespace JobApplications.Services
     {
         public bool IsValid(string identityNumber);
 
-        public bool CheckConnectionToRemoveServer();
+        //public bool CheckConnectionToRemoveServer();
+
+        ICountryDataProvider CountryDataProvider { get; }
+    }
+
+    public interface ICountryData
+    {
+        string Country { get; }
+    }
+
+    public interface ICountryDataProvider
+    {
+        ICountryData CountryData { get; }
     }
 }
