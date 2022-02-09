@@ -1,9 +1,4 @@
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\CoverletSourceRootsMapping
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.csproj.AssemblyReference.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.AssemblyInfoInputs.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.AssemblyInfo.cs
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\testhost.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\testhost.exe
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -97,6 +92,11 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTe
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\JobApplications.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\JobApplications.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.csproj.CopyComplete
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\ref\JobApplications.UnitTest.dll

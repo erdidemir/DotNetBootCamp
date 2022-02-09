@@ -5,7 +5,6 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\01.Extent
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\01.Extentions\Extentions\bin\Debug\net5.0\Extentions.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\01.Extentions\Extentions\bin\Debug\net5.0\ref\Extentions.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\01.Extentions\Extentions\bin\Debug\net5.0\Extentions.pdb
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\01.Extentions\Extentions\obj\Debug\net5.0\Extentions.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\01.Extentions\Extentions\obj\Debug\net5.0\Extentions.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\01.Extentions\Extentions\obj\Debug\net5.0\Extentions.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03Week\01.Extentions\Extentions\obj\Debug\net5.0\Extentions.AssemblyInfo.cs

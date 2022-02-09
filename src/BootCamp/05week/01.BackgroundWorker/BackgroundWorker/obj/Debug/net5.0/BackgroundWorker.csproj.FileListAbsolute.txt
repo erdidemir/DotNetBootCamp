@@ -32,8 +32,12 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.Backgr
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\RabbitMQ.Client.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.EventLog.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\RabbitMqSubscriberWorker.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\RabbitMqSubscriberWorker.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\obj\Debug\net5.0\BackgroundWorker.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\obj\Debug\net5.0\BackgroundWorker.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\obj\Debug\net5.0\BackgroundWorker.AssemblyInfoInputs.cache
@@ -44,7 +48,3 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.Backgr
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\obj\Debug\net5.0\ref\BackgroundWorker.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\obj\Debug\net5.0\BackgroundWorker.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\obj\Debug\net5.0\BackgroundWorker.genruntimeconfig.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\RabbitMQ.Client.dll
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\RabbitMqSubscriberWorker.dll
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\01.BackgroundWorker\BackgroundWorker\bin\Debug\net5.0\RabbitMqSubscriberWorker.pdb

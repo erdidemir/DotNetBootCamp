@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SOLID._04.ISP.Wrong
 {
-    class Tank1 : ITank
+    class Tank1 : IWTank
     {
         public bool AtesEt() => true;
         public double DusmanIleMesafeOlc()

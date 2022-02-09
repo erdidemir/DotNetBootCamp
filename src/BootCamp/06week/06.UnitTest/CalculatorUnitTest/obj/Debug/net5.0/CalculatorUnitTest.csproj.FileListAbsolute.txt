@@ -1,9 +1,4 @@
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\bin\Debug\net5.0\CoverletSourceRootsMapping
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.csproj.AssemblyReference.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.AssemblyInfoInputs.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.AssemblyInfo.cs
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\bin\Debug\net5.0\testhost.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\bin\Debug\net5.0\XUnitSample.deps.json
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\bin\Debug\net5.0\XUnitSample.runtimeconfig.json
@@ -100,6 +95,11 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTe
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\bin\Debug\net5.0\XUnitSample.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\bin\Debug\net5.0\XUnitSample.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.csproj.CopyComplete
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\CalculatorUnitTest.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest\CalculatorUnitTest\obj\Debug\net5.0\ref\CalculatorUnitTest.dll

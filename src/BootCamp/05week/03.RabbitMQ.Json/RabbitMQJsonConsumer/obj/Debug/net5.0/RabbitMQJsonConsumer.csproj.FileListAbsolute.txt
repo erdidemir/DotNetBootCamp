@@ -1,7 +1,3 @@
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.AssemblyInfoInputs.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.AssemblyInfo.cs
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\bin\Debug\net5.0\RabbitMQJsonConsumer.exe
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\bin\Debug\net5.0\RabbitMQJsonConsumer.deps.json
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\bin\Debug\net5.0\RabbitMQJsonConsumer.runtimeconfig.json
@@ -10,6 +6,11 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.Rabbit
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\bin\Debug\net5.0\ref\RabbitMQJsonConsumer.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\bin\Debug\net5.0\RabbitMQJsonConsumer.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.csproj.CopyComplete
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\RabbitMQJsonConsumer.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\obj\Debug\net5.0\ref\RabbitMQJsonConsumer.dll

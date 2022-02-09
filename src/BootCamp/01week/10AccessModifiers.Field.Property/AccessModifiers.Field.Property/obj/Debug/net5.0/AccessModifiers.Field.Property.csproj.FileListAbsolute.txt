@@ -21,6 +21,7 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\10AccessM
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\bin\Debug\net5.0\AccessModifiers.Field.Property.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\bin\Debug\net5.0\ref\AccessModifiers.Field.Property.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\bin\Debug\net5.0\AccessModifiers.Field.Property.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\obj\Debug\net5.0\AccessModifiers.Field.Property.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\obj\Debug\net5.0\AccessModifiers.Field.Property.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\obj\Debug\net5.0\AccessModifiers.Field.Property.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\10AccessModifiers.Field.Property\AccessModifiers.Field.Property\obj\Debug\net5.0\AccessModifiers.Field.Property.AssemblyInfo.cs

@@ -11,7 +11,6 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\07.Transi
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\07.Transient.Singleton.Scoped\Transient.Singleton.Scoped\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\07.Transient.Singleton.Scoped\Transient.Singleton.Scoped\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\07.Transient.Singleton.Scoped\Transient.Singleton.Scoped\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\07.Transient.Singleton.Scoped\Transient.Singleton.Scoped\obj\Debug\net5.0\Transient.Singleton.Scoped.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\07.Transient.Singleton.Scoped\Transient.Singleton.Scoped\obj\Debug\net5.0\Transient.Singleton.Scoped.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\07.Transient.Singleton.Scoped\Transient.Singleton.Scoped\obj\Debug\net5.0\Transient.Singleton.Scoped.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\07.Transient.Singleton.Scoped\Transient.Singleton.Scoped\obj\Debug\net5.0\Transient.Singleton.Scoped.AssemblyInfo.cs

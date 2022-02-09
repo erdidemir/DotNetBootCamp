@@ -39,7 +39,6 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\17.Routin
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\17.Routing\Routing\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\17.Routing\Routing\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\17.Routing\Routing\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\17.Routing\Routing\obj\Debug\net5.0\Routing.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\17.Routing\Routing\obj\Debug\net5.0\Routing.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\17.Routing\Routing\obj\Debug\net5.0\Routing.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\17.Routing\Routing\obj\Debug\net5.0\Routing.AssemblyInfo.cs

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SOLID._04.ISP.Wrong
 {
-    internal class Tank2 : ITank
+    internal class Tank2 : IWTank
     {
         public bool AtesEt()
         {

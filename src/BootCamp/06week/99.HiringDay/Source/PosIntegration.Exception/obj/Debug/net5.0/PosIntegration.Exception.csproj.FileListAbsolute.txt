@@ -2,7 +2,6 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.Hiring
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\bin\Debug\net5.0\PosIntegration.Exception.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\bin\Debug\net5.0\ref\PosIntegration.Exception.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\bin\Debug\net5.0\PosIntegration.Exception.pdb
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Debug\net5.0\PosIntegration.Exception.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Debug\net5.0\PosIntegration.Exception.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Debug\net5.0\PosIntegration.Exception.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Exception\obj\Debug\net5.0\PosIntegration.Exception.AssemblyInfo.cs

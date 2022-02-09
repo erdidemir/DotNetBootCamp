@@ -1,8 +1,3 @@
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.csproj.AssemblyReference.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.AssemblyInfoInputs.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.AssemblyInfo.cs
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\bin\Debug\net5.0\PosIntegration.Service.deps.json
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\bin\Debug\net5.0\PosIntegration.Service.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\bin\Debug\net5.0\ref\PosIntegration.Service.dll
@@ -11,6 +6,11 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.Hiring
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\bin\Debug\net5.0\PosIntegration.Model.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\bin\Debug\net5.0\PosIntegration.Exception.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\bin\Debug\net5.0\PosIntegration.Model.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.csproj.CopyComplete
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\PosIntegration.Service.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Service\obj\Debug\net5.0\ref\PosIntegration.Service.dll

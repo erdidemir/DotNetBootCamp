@@ -1,9 +1,3 @@
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.csproj.AssemblyReference.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.AssemblyInfoInputs.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.AssemblyInfo.cs
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\bin\Debug\net5.0\appsettings.json
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\bin\Debug\net5.0\PosIntegration.Api.exe
@@ -32,6 +26,13 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.Hiring
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\bin\Debug\net5.0\PosIntegration.Exception.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\bin\Debug\net5.0\PosIntegration.Model.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\bin\Debug\net5.0\PosIntegration.Service.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\scopedcss\bundle\PosIntegration.Api.styles.css
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\staticwebassets\PosIntegration.Api.StaticWebAssets.Manifest.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.RazorTargetAssemblyInfo.cache
@@ -40,4 +41,3 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.Hiring
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\ref\PosIntegration.Api.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.genruntimeconfig.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Api\obj\Debug\net5.0\PosIntegration.Api.MvcApplicationPartsAssemblyInfo.cs

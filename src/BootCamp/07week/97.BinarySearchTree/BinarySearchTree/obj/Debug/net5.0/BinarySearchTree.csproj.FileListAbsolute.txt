@@ -5,6 +5,7 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\97.Binary
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\97.BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\97.BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\ref\BinarySearchTree.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\97.BinarySearchTree\BinarySearchTree\bin\Debug\net5.0\BinarySearchTree.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\97.BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\97.BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\97.BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\07week\97.BinarySearchTree\BinarySearchTree\obj\Debug\net5.0\BinarySearchTree.AssemblyInfo.cs

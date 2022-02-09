@@ -39,6 +39,31 @@ namespace JobApplications.UnitTest
 
         }
 
+        [Test]
+        public void Application_ShouldTransferredtoAutoRejected_WithNoTechStack()
+        {
+            //Arrange
+            //Testlerin her biri kendi baþýna çalýþabilmesi için class testin içine ekliyoruz
+            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator();
+            var form = new JobApplication()
+            {
+                Applicant = new Applicant()
+                {
+                    Age = 19
+                },
+                TechStackList = new System.Collections.Generic.List<string> { "" }
+            };
+
+            //Action
+
+            var appResult = applicantEvaluator.Evaulate(form);
+
+            //Assert
+
+            Assert.AreEqual(appResult, ApplicantResult.AutoRejected);
+
+        }
+
 
     }
 }

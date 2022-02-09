@@ -7,6 +7,8 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapste
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Mapster.Example.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\ref\Mapster.Example.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Mapster.Example.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Mapster.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Mapster.Core.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -26,5 +28,3 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapste
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\obj\Debug\net5.0\ref\Mapster.Example.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\obj\Debug\net5.0\Mapster.Example.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\obj\Debug\net5.0\Mapster.Example.genruntimeconfig.cache
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Mapster.dll
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\03week\12.Mapster\Mapster\bin\Debug\net5.0\Mapster.Core.dll

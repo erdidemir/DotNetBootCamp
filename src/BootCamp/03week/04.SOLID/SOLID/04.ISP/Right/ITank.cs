@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SOLID._04.ISP.Right
 {
-    internal interface ITank : ITankMesafeOlc, ITankHareketEt, ITankAtesEt
+    internal interface IRTank : ITankMesafeOlc, ITankHareketEt, ITankAtesEt
     {
     }
 }

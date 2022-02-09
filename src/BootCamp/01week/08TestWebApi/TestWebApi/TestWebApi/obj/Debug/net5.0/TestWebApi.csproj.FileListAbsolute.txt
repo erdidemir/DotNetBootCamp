@@ -38,7 +38,6 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\08TestWeb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\08TestWebApi\TestWebApi\TestWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\08TestWebApi\TestWebApi\TestWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\08TestWebApi\TestWebApi\TestWebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\08TestWebApi\TestWebApi\TestWebApi\obj\Debug\net5.0\TestWebApi.csproj.AssemblyReference.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\08TestWebApi\TestWebApi\TestWebApi\obj\Debug\net5.0\TestWebApi.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\08TestWebApi\TestWebApi\TestWebApi\obj\Debug\net5.0\TestWebApi.AssemblyInfoInputs.cache
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\01week\08TestWebApi\TestWebApi\TestWebApi\obj\Debug\net5.0\TestWebApi.AssemblyInfo.cs
