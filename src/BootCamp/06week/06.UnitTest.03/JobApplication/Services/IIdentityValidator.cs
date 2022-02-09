@@ -9,5 +9,7 @@ namespace JobApplications.Services
     public interface IIdentityValidator
     {
         public bool IsValid(string identityNumber);
+
+        public bool CheckConnectionToRemoveServer();
     }
 }

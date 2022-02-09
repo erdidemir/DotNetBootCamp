@@ -24,6 +24,7 @@ namespace JobApplications
             if (jobApplication.Applicant.Age < minAge)
                 return ApplicantResult.AutoRejected;
 
+            //var connectionSucceed = _identityValidator.CheckConnectionToRemoveServer();
             var validIdentity = _identityValidator.IsValid(jobApplication.Applicant.IdentityNumber);
 
             if(!validIdentity)

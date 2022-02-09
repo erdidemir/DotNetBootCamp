@@ -111,10 +111,11 @@ namespace JobApplications.UnitTest
             //Arrange
             //Testlerin her biri kendi baþýna çalýþabilmesi için class testin içine ekliyoruz
 
-            var mockValidator = new Mock<IIdentityValidator>();
+            var mockValidator = new Mock<IIdentityValidator>(MockBehavior.Loose);
 
             //Sahte bir tane obje yaratýp bu validasyonlarý kullanabiliriz
             mockValidator.Setup(i => i.IsValid(It.IsAny<string>())).Returns(false);
+            //mockValidator.Setup(i => i.CheckConnectionToRemoveServer()).Returns(false);
 
             ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator(mockValidator.Object);
             var form = new JobApplication()
