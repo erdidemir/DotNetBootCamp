@@ -64,6 +64,32 @@ namespace JobApplications.UnitTest
 
         }
 
+        [Test]
+        public void Application_ShouldTransferredtoAutoAccepted_WithTechStackOver75()
+        {
+            //Arrange
+            //Testlerin her biri kendi baþýna çalýþabilmesi için class testin içine ekliyoruz
+            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator();
+            var form = new JobApplication()
+            {
+                Applicant = new Applicant()
+                {
+                    Age = 19
+                },
+                TechStackList = new System.Collections.Generic.List<string> { "C#", "RabbitMQ", "Microservice", "Visual Studio" },
+                YearsOfExperience = 16
+            };
+
+            //Action
+
+            var appResult = applicantEvaluator.Evaulate(form);
+
+            //Assert
+
+            Assert.AreEqual(appResult, ApplicantResult.AutoAccepted);
+
+        }
+
 
     }
 }
