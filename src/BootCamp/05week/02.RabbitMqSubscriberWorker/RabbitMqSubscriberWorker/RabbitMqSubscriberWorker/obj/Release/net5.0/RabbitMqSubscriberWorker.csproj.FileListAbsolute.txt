@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\bin\Release\net5.0\RabbitMqSubscriberWorker.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\bin\Release\net5.0\RabbitMqSubscriberWorker.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\bin\Release\net5.0\ref\RabbitMqSubscriberWorker.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\bin\Release\net5.0\RabbitMqSubscriberWorker.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\obj\Release\net5.0\RabbitMqSubscriberWorker.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\obj\Release\net5.0\RabbitMqSubscriberWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\obj\Release\net5.0\RabbitMqSubscriberWorker.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\obj\Release\net5.0\RabbitMqSubscriberWorker.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\obj\Release\net5.0\RabbitMqSubscriberWorker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\obj\Release\net5.0\RabbitMqSubscriberWorker.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\obj\Release\net5.0\ref\RabbitMqSubscriberWorker.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\05week\02.RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\RabbitMqSubscriberWorker\obj\Release\net5.0\RabbitMqSubscriberWorker.pdb

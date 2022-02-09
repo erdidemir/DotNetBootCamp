@@ -182,9 +182,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Consumer", "..\..\..\05week
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.RabbitMQ.Json", "03.RabbitMQ.Json", "{9093AEA6-A008-498B-9CF9-1EF25BBE5002}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQJson", "..\..\..\05week\03.RabbitMQ.Json\RabbitMQJson\RabbitMQJson.csproj", "{0732ED15-F333-4883-BD0E-69A6E61734E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQJson", "..\..\..\05week\03.RabbitMQ.Json\RabbitMQJson\RabbitMQJson.csproj", "{0732ED15-F333-4883-BD0E-69A6E61734E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitMQJsonConsumer", "..\..\..\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\RabbitMQJsonConsumer.csproj", "{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQJsonConsumer", "..\..\..\05week\03.RabbitMQ.Json\RabbitMQJsonConsumer\RabbitMQJsonConsumer.csproj", "{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.UnitTest.03", "06.UnitTest.03", "{F46D1AD1-3824-4C3E-A44F-BF84474066CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobApplications", "..\..\..\06week\06.UnitTest.03\JobApplication\JobApplications.csproj", "{A1EB2B88-1425-4E52-8A58-FD13819717D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobApplications.UnitTest", "..\..\..\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\JobApplications.UnitTest.csproj", "{19C9B542-7A35-400E-9D20-C107410F50C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -360,6 +366,14 @@ Global
 		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1EB2B88-1425-4E52-8A58-FD13819717D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1EB2B88-1425-4E52-8A58-FD13819717D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1EB2B88-1425-4E52-8A58-FD13819717D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1EB2B88-1425-4E52-8A58-FD13819717D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C9B542-7A35-400E-9D20-C107410F50C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C9B542-7A35-400E-9D20-C107410F50C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C9B542-7A35-400E-9D20-C107410F50C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C9B542-7A35-400E-9D20-C107410F50C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -449,6 +463,9 @@ Global
 		{9093AEA6-A008-498B-9CF9-1EF25BBE5002} = {C1C86B4F-C37B-49CB-9D80-68DACE289344}
 		{0732ED15-F333-4883-BD0E-69A6E61734E3} = {9093AEA6-A008-498B-9CF9-1EF25BBE5002}
 		{1FD66E6D-227C-4B80-B3A9-08A67F327F2B} = {9093AEA6-A008-498B-9CF9-1EF25BBE5002}
+		{F46D1AD1-3824-4C3E-A44F-BF84474066CD} = {FD9334BB-09AD-41B2-B2DC-A515B02629B6}
+		{A1EB2B88-1425-4E52-8A58-FD13819717D5} = {F46D1AD1-3824-4C3E-A44F-BF84474066CD}
+		{19C9B542-7A35-400E-9D20-C107410F50C4} = {F46D1AD1-3824-4C3E-A44F-BF84474066CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {584FA0DF-3EC2-43F2-B96D-94DAFA90DB31}

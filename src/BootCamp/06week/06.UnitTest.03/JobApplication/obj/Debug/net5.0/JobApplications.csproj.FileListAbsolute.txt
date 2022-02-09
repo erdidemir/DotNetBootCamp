@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\bin\Debug\net5.0\JobApplications.deps.json
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\bin\Debug\net5.0\JobApplications.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\bin\Debug\net5.0\ref\JobApplications.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\bin\Debug\net5.0\JobApplications.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\ref\JobApplications.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.pdb

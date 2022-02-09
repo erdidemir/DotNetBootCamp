@@ -240,7 +240,17 @@
       "ProjectGuid": "06924e39-b992-43cd-ab9e-800ec07d3d71",
       "DisplayName": "Consumer",
       "ColorIndex": 14
+    },
+    "0732ed15-f333-4883-bd0e-69a6e61734e3": {
+      "ProjectGuid": "0732ed15-f333-4883-bd0e-69a6e61734e3",
+      "DisplayName": "RabbitMQJson",
+      "ColorIndex": 15
+    },
+    "1fd66e6d-227c-4b80-b3a9-08a67f327f2b": {
+      "ProjectGuid": "1fd66e6d-227c-4b80-b3a9-08a67f327f2b",
+      "DisplayName": "RabbitMQJsonConsumer",
+      "ColorIndex": 0
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 1
 }
