@@ -1,4 +1,5 @@
-﻿using System;
+﻿using JobApplications.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,12 +11,23 @@ namespace JobApplications
     {
         private const int minAge = 18;
         private const int autoAcceptedYearOfExperience = 15;
+        private readonly IIdentityValidator _identityValidator;
+
+        public ApplicantEvaluator(IIdentityValidator identityValidator)
+        {
+            _identityValidator = identityValidator;
+        }
 
         private List<string> techStackList = new() { "C#", "RabbitMQ", "Microservice", "Visual Studio" };
         public ApplicantResult Evaulate(JobApplication jobApplication)
         {
             if (jobApplication.Applicant.Age < minAge)
                 return ApplicantResult.AutoRejected;
+
+            var validIdentity = _identityValidator.IsValid(jobApplication.Applicant.IdentityNumber);
+
+            if(!validIdentity)
+                return ApplicantResult.TranferredToHR;
 
             var sr = GetTechStackSimilarityRate(jobApplication.TechStackList);
             if(sr < 25)

@@ -9,3 +9,4 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTe
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\ref\JobApplications.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.pdb
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplication\obj\Debug\net5.0\JobApplications.csproj.AssemblyReference.cache

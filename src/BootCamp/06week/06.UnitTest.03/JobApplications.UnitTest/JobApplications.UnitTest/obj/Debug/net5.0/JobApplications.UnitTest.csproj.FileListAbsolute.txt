@@ -102,3 +102,5 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTe
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\ref\JobApplications.UnitTest.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.pdb
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\obj\Debug\net5.0\JobApplications.UnitTest.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\06.UnitTest.03\JobApplications.UnitTest\JobApplications.UnitTest\bin\Debug\net5.0\Moq.dll

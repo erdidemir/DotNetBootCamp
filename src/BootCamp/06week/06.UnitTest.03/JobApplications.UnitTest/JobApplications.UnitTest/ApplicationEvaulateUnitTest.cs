@@ -1,3 +1,5 @@
+using JobApplications.Services;
+using Moq;
 using NUnit.Framework;
 
 namespace JobApplications.UnitTest
@@ -20,7 +22,7 @@ namespace JobApplications.UnitTest
         {
             //Arrange
             //Testlerin her biri kendi baþýna çalýþabilmesi için class testin içine ekliyoruz
-            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator();
+            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator(null);
             var form = new JobApplication()
             {
                 Applicant = new Applicant()
@@ -44,12 +46,19 @@ namespace JobApplications.UnitTest
         {
             //Arrange
             //Testlerin her biri kendi baþýna çalýþabilmesi için class testin içine ekliyoruz
-            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator();
+
+            var mockValidator = new Mock<IIdentityValidator>();
+
+            //Sahte bir tane obje yaratýp bu validasyonlarý kullanabiliriz
+            mockValidator.Setup(i => i.IsValid(It.IsAny<string>())).Returns(true);
+
+            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator(mockValidator.Object);
             var form = new JobApplication()
             {
                 Applicant = new Applicant()
                 {
-                    Age = 19
+                    Age = 19,
+                    IdentityNumber = ""
                 },
                 TechStackList = new System.Collections.Generic.List<string> { "" }
             };
@@ -69,7 +78,13 @@ namespace JobApplications.UnitTest
         {
             //Arrange
             //Testlerin her biri kendi baþýna çalýþabilmesi için class testin içine ekliyoruz
-            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator();
+
+            var mockValidator = new Mock<IIdentityValidator>();
+
+            //Sahte bir tane obje yaratýp bu validasyonlarý kullanabiliriz
+            mockValidator.Setup(i => i.IsValid(It.IsAny<string>())).Returns(true);
+
+            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator(mockValidator.Object);
             var form = new JobApplication()
             {
                 Applicant = new Applicant()
@@ -87,6 +102,36 @@ namespace JobApplications.UnitTest
             //Assert
 
             Assert.AreEqual(appResult, ApplicantResult.AutoAccepted);
+
+        }
+
+        [Test]
+        public void Application_ShouldTransferredtoTranferredToHR_WithNoValidIdentit()
+        {
+            //Arrange
+            //Testlerin her biri kendi baþýna çalýþabilmesi için class testin içine ekliyoruz
+
+            var mockValidator = new Mock<IIdentityValidator>();
+
+            //Sahte bir tane obje yaratýp bu validasyonlarý kullanabiliriz
+            mockValidator.Setup(i => i.IsValid(It.IsAny<string>())).Returns(false);
+
+            ApplicantEvaluator applicantEvaluator = new ApplicantEvaluator(mockValidator.Object);
+            var form = new JobApplication()
+            {
+                Applicant = new Applicant()
+                {
+                    Age = 19
+                }
+            };
+
+            //Action
+
+            var appResult = applicantEvaluator.Evaulate(form);
+
+            //Assert
+
+            Assert.AreEqual(appResult, ApplicantResult.TranferredToHR);
 
         }
 
