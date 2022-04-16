@@ -9,3 +9,15 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.Hiring
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\ref\PosIntegration.Model.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.pdb
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\bin\Debug\net5.0\PosIntegration.Model.deps.json
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\bin\Debug\net5.0\PosIntegration.Model.dll
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\bin\Debug\net5.0\PosIntegration.Model.pdb
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.csproj.AssemblyReference.cache
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.AssemblyInfoInputs.cache
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.AssemblyInfo.cs
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.csproj.CoreCompileInputs.cache
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.dll
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\refint\PosIntegration.Model.dll
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\PosIntegration.Model.pdb
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\06week\99.HiringDay\Source\PosIntegration.Model\obj\Debug\net5.0\ref\PosIntegration.Model.dll

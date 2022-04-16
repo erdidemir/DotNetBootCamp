@@ -686,19 +686,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\Erdi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Api\\PosIntegration.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Api\\PosIntegration.Api.csproj",
       "projectName": "PosIntegration.Api",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Api\\PosIntegration.Api.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Api\\obj\\",
+      "projectPath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Api\\PosIntegration.Api.csproj",
+      "packagesPath": "C:\\Users\\Erdi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -712,14 +712,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Exception\\PosIntegration.Exception.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Exception\\PosIntegration.Exception.csproj"
+            "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Exception\\PosIntegration.Exception.csproj": {
+              "projectPath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Exception\\PosIntegration.Exception.csproj"
             },
-            "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Model\\PosIntegration.Model.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Model\\PosIntegration.Model.csproj"
+            "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Model\\PosIntegration.Model.csproj": {
+              "projectPath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Model\\PosIntegration.Model.csproj"
             },
-            "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Service\\PosIntegration.Service.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Service\\PosIntegration.Service.csproj"
+            "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Service\\PosIntegration.Service.csproj": {
+              "projectPath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Service\\PosIntegration.Service.csproj"
             }
           }
         }
@@ -757,7 +757,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

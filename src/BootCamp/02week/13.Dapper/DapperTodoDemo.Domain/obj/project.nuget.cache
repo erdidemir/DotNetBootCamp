@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0S+i7NYm+hub6GYCafZdKF9qNWF5xlS1vHYtqY4rC5RstI3Xgy7YwPWvLmRrOJypOMUBOkPFnNTbvPmGqBPHNg==",
+  "dgSpecHash": "ZV32xUDciF7utAet0+zF70VyBjlT1I5Krp30O9kS6glund4rMuKpwF/gqjLE6f6n6uMrT4epPSZ/pwpjhX2KRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\02week\\13.Dapper\\DapperTodoDemo.Domain\\DapperTodoDemo.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\02week\\13.Dapper\\DapperTodoDemo.Domain\\DapperTodoDemo.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

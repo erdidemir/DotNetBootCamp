@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kkoY72kHuvnR6VsHzfYzzv0+DQfsOCZdVb4kDYoXEorh7r6jzJn4wY0zG0iz9+8bTs4gaE0auqTdmmxBc0yfRQ==",
+  "dgSpecHash": "qe/ZecbKn4cpvT4nTT1BzN0bnB+paunAYpZNRx4UiAf936s3JfyJKYtclAOHemvAnD0pVl5fB/gKopfIEXzKDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\03week\\04.SOLID\\SOLID\\SOLID.csproj",
+  "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\03week\\04.SOLID\\SOLID\\SOLID.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

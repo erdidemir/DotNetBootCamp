@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LKWd91M9pAe0QhHDjjfLKoll3fIa0M3N/SfzhbnviFExjR5vm28oWSzW3jpwS5YkujtEG+XdPnDCXcQTBRaxQ==",
+  "dgSpecHash": "goHoE1YwgBfxgny+OAjhOLWpL3XOWB9ouqh+OCmSCF405voTf9ngOek6OZIWpdA7Vpv4hirseNm1CxhdrS/yJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Exception\\PosIntegration.Exception.csproj",
+  "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\99.HiringDay\\Source\\PosIntegration.Exception\\PosIntegration.Exception.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

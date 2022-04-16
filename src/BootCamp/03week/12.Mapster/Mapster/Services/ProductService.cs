@@ -8,8 +8,8 @@ namespace Mapster.Services
         {
             var product = new Product();
 
-            product.ProductId = 1;
-            product.ProductName = "Laptop";
+            product.Id = 1;
+            product.Name = "Laptop";
             product.UnitPrice = 5000;
 
             return product;

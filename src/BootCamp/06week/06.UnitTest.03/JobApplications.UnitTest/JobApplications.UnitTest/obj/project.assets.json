@@ -5157,19 +5157,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+    "C:\\Users\\Erdi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplications.UnitTest\\JobApplications.UnitTest\\JobApplications.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplications.UnitTest\\JobApplications.UnitTest\\JobApplications.UnitTest.csproj",
       "projectName": "JobApplications.UnitTest",
-      "projectPath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplications.UnitTest\\JobApplications.UnitTest\\JobApplications.UnitTest.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplications.UnitTest\\JobApplications.UnitTest\\obj\\",
+      "projectPath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplications.UnitTest\\JobApplications.UnitTest\\JobApplications.UnitTest.csproj",
+      "packagesPath": "C:\\Users\\Erdi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplications.UnitTest\\JobApplications.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Erdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5183,8 +5183,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplication\\JobApplications.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplication\\JobApplications.csproj"
+            "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplication\\JobApplications.csproj": {
+              "projectPath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\06week\\06.UnitTest.03\\JobApplication\\JobApplications.csproj"
             }
           }
         }
@@ -5235,7 +5235,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

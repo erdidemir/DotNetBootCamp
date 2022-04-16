@@ -10,3 +10,15 @@ C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll
 C:\Users\Administrator\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.deps.json
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.dll
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.AssemblyReference.cache
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfoInputs.cache
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.AssemblyInfo.cs
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.dll
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\refint\Ordering.Domain.dll
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\Erdi\source\repos\DotNetBootCamp\src\BootCamp\02week\11.NTier\src\Services\Ordering\Ordering.Domain\obj\Debug\net5.0\ref\Ordering.Domain.dll

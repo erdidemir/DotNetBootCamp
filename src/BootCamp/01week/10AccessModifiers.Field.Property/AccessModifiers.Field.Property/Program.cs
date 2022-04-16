@@ -8,23 +8,23 @@ namespace AccessModifiers.Field.Property
     {
         static void Main(string[] args)
         {
-            var testSiyah = new Models.Color(0,0,0);
-            Console.WriteLine("{0}, {1}, {2}", testSiyah.getR(), testSiyah.getG(), testSiyah.getB());
+            //var testSiyah = new Models.Color(0,0,0);
+            //Console.WriteLine("{0}, {1}, {2}", testSiyah.getR(), testSiyah.getG(), testSiyah.getB());
 
 
-            CalendarEntry birthday = new CalendarEntry();
-            birthday.Day = "Saturday";
+            //CalendarEntry birthday = new CalendarEntry();
+            //birthday.Day = "Saturday";
 
 
-            TimePeriod t = new TimePeriod();
+            //TimePeriod t = new TimePeriod();
             // The property assignment causes the 'set' accessor to be called.
-            t.Hours = 24;
+            //t.Hours = 24;
 
             // Retrieving the property causes the 'get' accessor to be called.
-            Console.WriteLine($"Time in hours: {t.Hours}");
+            //Console.WriteLine($"Time in hours: {t.Hours}");
 
-            var person = new Person("Erdi", "Demir", new DateTime(1989,11,17));
-            Console.WriteLine(person.Name + " Age:" + person.Age);
+            //var person = new Person("Erdi", "Demir", new DateTime(1989,11,17));
+            //Console.WriteLine(person.Name + " Age:" + person.Age);
 
             //var item = new SaleItem("Shoes", 19.95m);
             //Console.WriteLine($"{item.Name}: sells for {item.Price:C2}");

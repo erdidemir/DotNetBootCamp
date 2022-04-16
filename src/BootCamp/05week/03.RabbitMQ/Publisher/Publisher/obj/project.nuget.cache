@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "A6kYOirdTjJfsyisDPIHiUFk2cuRlNxzpnZ8qQXMn2TbiMKrg0WX9OLPU/NYDl+9IvE34FUM5PgnRw0RDmVF9w==",
+  "dgSpecHash": "xCpAv/GAg9hJCHsODV7XtXf+CP9XaUwyr+VOwI93MJhcJPk24JblDcYlQggcGVbpIWXr0Jb9cHAuXNJwKz2i8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\05week\\03.RabbitMQ\\Publisher\\Publisher\\Publisher.csproj",
+  "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\05week\\03.RabbitMQ\\Publisher\\Publisher\\Publisher.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+    "C:\\Users\\Erdi\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\Erdi\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Erdi\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
   ],
   "logs": []
 }
