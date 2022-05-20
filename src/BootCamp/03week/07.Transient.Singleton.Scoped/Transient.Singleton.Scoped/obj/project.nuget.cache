@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Nt/UdUUDfg+bjRCvZVoFy17nvpYZV+1v+cwhlFA7CcA+Od4JE0zThR5pRubI9kf7SlGZhOmszPRlli0usZZeUA==",
+  "dgSpecHash": "sZM/cWbLZN77fGUC7mZacjXm2VoYFhtOTIJk6ZEQMPdy1sLO9pFLMq0KxxuS+Aen6NNgsfEjSZnCyu+7UKc8JA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\03week\\07.Transient.Singleton.Scoped\\Transient.Singleton.Scoped\\Transient.Singleton.Scoped.csproj",
   "expectedPackageFiles": [

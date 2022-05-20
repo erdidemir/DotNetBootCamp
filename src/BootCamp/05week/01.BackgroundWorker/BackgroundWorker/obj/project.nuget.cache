@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ulyds+qOMdLW1AgeyPXaYquGuNGB9E2Go9USLK8xNGSOlEeT4sIC3DE7Hp8JZY2ZjkrFm1jTYB8MDYPPkWvGDw==",
+  "dgSpecHash": "KNwAJ98sNIRUxq8xnx9SNGO0yvYsfzWzEb9T2fo1bxVm7mGROmDqvD4gBSvZo9LxeuzrEu9DHaINiKStD51/7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\05week\\01.BackgroundWorker\\BackgroundWorker\\BackgroundWorker.csproj",
   "expectedPackageFiles": [

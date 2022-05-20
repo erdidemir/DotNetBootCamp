@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XuAXHNHKVhjOHWZewd3ZisD/UltxXT46sIDv/it1cs233zdj4VVzAUwEaWi7gZduNDz4xF306WU/8YVKpojmkw==",
+  "dgSpecHash": "mcFspwI21VGQQOAKjnNQXaqYVG71dh4T/M0qZDlql9k8vkagjBkzEudgH+W8xlcPY7R07sZZJCUrnm1r1hEDRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\02week\\11.NTier\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
   "expectedPackageFiles": [

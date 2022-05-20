@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "CtxAXvcxPTm1ddq//fx3ASXALo1fiTBaa0EtmZw1FMr2EbEs83tphis9jIZmz2Y64588ixJlV/CX1OKGHEBRVg==",
+  "dgSpecHash": "zM8Z6XqVkGfb+20wVmlijlnDRSpka04oT0FZz8/QYXtog/ea2VFhTiT2D0HVe0TQGBW9z262PhcRZIg7I+t6zg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\02week\\11.NTier\\src\\Services\\Ordering\\Ordering.Domain\\Ordering.Domain.csproj",
   "expectedPackageFiles": [

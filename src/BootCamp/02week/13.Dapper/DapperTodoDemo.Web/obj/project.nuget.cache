@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "c4Lr2Bjv9PEyKlhmO9oduvKN67OGVG5D3X+KaIHmRJx1C7rmpCEgoZKr+oCh85VMwLA/9GBC88pbGXpwYBlGMg==",
+  "dgSpecHash": "znGT4HMmZzSNJKzTHunnhMz5PVrZGxwLCisXzwdwASOGzE2WbrXC89MllI0UkB5NMQQU/WZQpuH9fgEi+SaDoA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\02week\\13.Dapper\\DapperTodoDemo.Web\\DapperTodoDemo.Web.csproj",
   "expectedPackageFiles": [

@@ -37,6 +37,27 @@ namespace InMemoryCacheExample.Controllers
             return blogs;
         }
 
+        [HttpPost]
 
+        public IActionResult Add()
+        {
+            Random rastgele = new Random();
+            int sayi = rastgele.Next(50, 100);
+
+            Blog blog = new Blog();
+
+            blog.IsActive = true;
+            blog.Title = "Test " + sayi.ToString(); ;
+            blog.Content = "Blog content" + sayi;
+
+            dbContext.Add(blog);
+            dbContext.SaveChanges();
+
+
+            return Ok();
+        }
     }
 }
+
+
+        

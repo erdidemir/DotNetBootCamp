@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "A4HijKxgk8+pIxHlt2h9eOsa65YoPTA3DQ1NW7+W/EU9OgaMQp1gBnWip/8ILitghhexDmcjb78rf226lYK0oQ==",
+  "dgSpecHash": "a0zHdiWu2ra1hDNx1hf/FKGLfBJ+x8hSkBHucCMFT9O2kTBC+NajLYp7Q9jRhnnJ8tK1sCJpcSKDCTM+Qaw9Kg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\02week\\13.Dapper\\DapperTodoDemo.Infrastructure\\DapperTodoDemo.Infrastructure.csproj",
   "expectedPackageFiles": [

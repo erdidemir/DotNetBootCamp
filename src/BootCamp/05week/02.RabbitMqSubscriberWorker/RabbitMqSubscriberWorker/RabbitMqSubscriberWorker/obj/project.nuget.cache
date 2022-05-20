@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "a6/cMh4gBhDT1/leBZE/y6xi8LJr+g15R9H4primBBXRP4x/AbdXzqWsgTXsjHObJOJ2ADfdyVM13SYCiTfRqg==",
+  "dgSpecHash": "xjOxWBfw1LGa9apNFFhPfeFsBmSQcB3oT3okPx5cIrLrOmVDDZAkiECtzkOAlgh6yktEpLo1SnTzXAuSZ324VA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\05week\\02.RabbitMqSubscriberWorker\\RabbitMqSubscriberWorker\\RabbitMqSubscriberWorker\\RabbitMqSubscriberWorker.csproj",
   "expectedPackageFiles": [

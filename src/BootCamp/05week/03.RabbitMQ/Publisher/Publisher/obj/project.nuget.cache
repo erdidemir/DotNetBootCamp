@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xCpAv/GAg9hJCHsODV7XtXf+CP9XaUwyr+VOwI93MJhcJPk24JblDcYlQggcGVbpIWXr0Jb9cHAuXNJwKz2i8g==",
+  "dgSpecHash": "Xp3Nq1QuO7gUW8eF3asl5duZI3yWf4Ej9cBuIbPlQ7U9pA6ZkeYuvYql9f1aNLw90lqkDH1uMtiw+s3nWri9YA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\05week\\03.RabbitMQ\\Publisher\\Publisher\\Publisher.csproj",
   "expectedPackageFiles": [

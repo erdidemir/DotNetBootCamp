@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Muiw+VvQi+/fI5lC+f8402ztdW1DrJfE7R15cjvCbnWhDQLCJJRqaAVHNTyfEP39uW2HfdpPTahliD6ElJqdPg==",
+  "dgSpecHash": "ZHJqQDo9awkexMtEGETn/VnVGmDE60RRkkzID8cT0xwAKr+a1LoBCxziFxH5LOb9EDipxKqLZNlqwUnA8270MA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\05week\\06.DistributedCache\\DistributedCacheExample\\DistributedCacheExample.csproj",
   "expectedPackageFiles": [

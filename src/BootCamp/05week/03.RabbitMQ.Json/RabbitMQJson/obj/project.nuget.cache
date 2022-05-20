@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "t4jsU7/WeTO1dnEwdkrNexpDafNkaA489sPD06jPvC81SDVxAckV3NdyZKd7iXdLjQj/F7H2HicXLsM+JJHFcQ==",
+  "dgSpecHash": "rMQwTLOThEhXNvWVc0zJQdtHfQ4h4zFzSFr1vOn2atkZIJzT+3xekVNyd2RiYSeZhAkw9lLoi9IgNAoosS8xEA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Erdi\\source\\repos\\DotNetBootCamp\\src\\BootCamp\\05week\\03.RabbitMQ.Json\\RabbitMQJson\\RabbitMQJson.csproj",
   "expectedPackageFiles": [
